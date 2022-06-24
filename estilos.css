@@ -1,0 +1,23 @@
+h1{
+    background-color: skyblue; 
+    text-align: center; 
+    font-size: 40px;
+    border: 2px solid blue;
+}
+
+.destacado{
+    font-size: 20px; 
+    color: rgb(25, 25, 160);
+}
+
+#salidas{
+    background-color: gray;
+     font-style: oblique;
+     padding: 20px;
+     border: 2px solid black;
+}
+
+.nuevo{
+    font-size: 20px;
+    color: rgb(216, 43, 13);
+}
